@@ -1,0 +1,20 @@
+CALL DESK - START HERE
+
+Files ready: index.html, manifest.webmanifest, service-worker.js, icon.svg.
+The website is NOT live until you upload these files to an HTTPS static host.
+
+LOCAL COMPUTER
+1. Open index.html in a modern browser.
+2. Complete setup.
+3. Import a CSV exported from Excel as CSV UTF-8.
+4. Download a private backup regularly.
+
+PHONE / HTTPS
+1. Upload all four hosting files together to a static HTTPS host such as GitHub Pages, Cloudflare Pages, or Netlify.
+2. Open the actual HTTPS URL in iPhone Safari.
+3. Tap Share, then Add to Home Screen.
+4. Open that installed version and import your private JSON backup or CSV locally.
+5. Do not put donor CSV or JSON files in the public website folder or repository.
+
+DATA TRANSFER
+Browser storage does not sync. Download a private-data JSON backup on the source device, transfer it privately, then Restore it inside the exact browser/Home Screen version you intend to use.
